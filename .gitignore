@@ -1,0 +1,8 @@
+*.env
+obj
+bin
+artifacts
+.terraform
+.vs
+coverage.json
+*.user
